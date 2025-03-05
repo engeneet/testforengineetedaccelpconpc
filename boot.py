@@ -14,4 +14,4 @@ class BootEngi: #do not ask me why is it called "bootengi" lol
         self.cli.addLine("Hello World!")
 
     def update(self):
-        return
+        return # does nothing
