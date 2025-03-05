@@ -1,0 +1,10 @@
+{
+    "description": "test lol",
+    
+    "systemConfig": {
+        "frameRate": 60,
+        "cursorEnabled": false,
+        "systemScheme": "CLI",
+        "imageLoadType": "RGBA"
+    }
+}
