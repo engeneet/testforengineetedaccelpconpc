@@ -13,4 +13,4 @@ class BootEngi: #do not ask me why is it called "bootengi" lol
         self.cli.addLine("Hello World!")
 
     def update(self):
-        self.cli.addLine(str(random.randint(0, 9)))
+        return
